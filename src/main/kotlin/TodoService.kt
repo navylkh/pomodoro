@@ -1,5 +1,6 @@
-import co.wordbe.pomodoro.Todo
-import co.wordbe.pomodoro.TodoRepository
+package co.wordbe.pomodoro
+
+import TodoRequest
 import org.springframework.stereotype.Service
 
 @Service
